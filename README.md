@@ -1,2 +1,1 @@
-# LofoCinema
-cinema booking system
+# Nexus-Cinema
